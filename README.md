@@ -1,8 +1,8 @@
 # Portfólio Pessoal - Denis Gabriel
 
-![Preview do Portfólio](https://i.imgur.com/LgPqZpU.png)
+![Preview do Portfólio](assets/images/preview.png)
 
-*Link para o site no ar: [Adicione o link aqui quando publicar]*
+*Link para o site no ar: [denisgabriel017.netlify.app]*
 
 ---
 
