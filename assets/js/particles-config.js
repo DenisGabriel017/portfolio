@@ -10,7 +10,7 @@ particlesJS("particles-js", {
       }
     },
     "color": {
-      "value": "#64ffda" // Sua cor accent-green
+      "value": "#64ffda"
     },
     "shape": {
       "type": "circle",
@@ -50,7 +50,7 @@ particlesJS("particles-js", {
     "line_linked": {
       "enable": true,
       "distance": 150,
-      "color": "#00aaff", // Sua cor primary-blue
+      "color": "#00aaff",
       "opacity": 0.4,
       "width": 1
     },

@@ -21,13 +21,13 @@ body {
 
 /* --- CONFIGURAÇÃO DO FUNDO ANIMADO --- */
 #particles-js {
-    position: fixed; /* Essencial para que ele ocupe 100% da tela e não role */
+    position: fixed; 
     width: 100%;
     height: 100%;
     top: 0;
     left: 0;
-    z-index: -1; /* Joga ele para trás de todo o conteúdo */
-    background-color: var(--dark-bg); /* Garante que o fundo seja a cor escura base */
+    z-index: -1; 
+    background-color: var(--dark-bg); 
 }
 
 /* --- HEADER --- */
